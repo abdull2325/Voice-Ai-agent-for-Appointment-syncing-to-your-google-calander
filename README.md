@@ -1,4 +1,4 @@
-# Voice-Ai-agent-for-Appointment-syncing-to-your-google-calander
+
 # 🤖 n8n Automated Appointment Confirmation System with Retell AI & Google Calendar
 
 This project is an intelligent **n8n workflow** that automates the process of confirming appointments scheduled in **Google Calendar**. It uses **Retell AI** to place natural-sounding, human-like phone calls to attendees, asking if they are available for their upcoming meeting—eliminating the need for manual calls by HR or administrative staff.
